@@ -1,8 +1,8 @@
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/fourSum.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/threeSum.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/fiveSum.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/binarySearch.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/twoSum.dir
-/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/CMakeFiles/liubobo.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/fiveSum.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/fourSum.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/threeSum.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/twoSum.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/binarySearch.dir
+/Users/canli/Downloads/liubobo/cmake-build-debug/CMakeFiles/liubobo.dir

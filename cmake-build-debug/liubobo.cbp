@@ -8,317 +8,305 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fourSum">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/fourSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourSum"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fourSum/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/fourSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourSum/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="threeSum">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/threeSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeSum"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="threeSum/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/threeSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeSum/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fiveSum">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/fiveSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fiveSum"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="fiveSum/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/fiveSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fiveSum/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="binarySearch">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/binarySearch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 binarySearch"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="binarySearch/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/binarySearch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 binarySearch/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fiveSum">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/fiveSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fiveSum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fiveSum/fast">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/fiveSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fiveSum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fourSum">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/fourSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourSum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fourSum/fast">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/fourSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourSum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threeSum">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/threeSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeSum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threeSum/fast">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/threeSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeSum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="twoSum">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="twoSum/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/twoSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binarySearch">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/binarySearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 binarySearch"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binarySearch/fast">
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/binarySearch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 binarySearch/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="liubobo">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/liubobo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/liubobo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 liubobo"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 liubobo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="liubobo/fast">
-				<Option output="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/liubobo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug"/>
+				<Option output="/Users/canli/Downloads/liubobo/cmake-build-debug/liubobo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/canli/Downloads/liubobo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 liubobo/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/lican/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 liubobo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/canli/Downloads/liubobo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/binarySearch.cpp">
+		<Unit filename="/Users/canli/Downloads/liubobo/binarySearch.cpp">
 			<Option target="binarySearch"/>
 			<Option target="liubobo"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/fiveSum.cpp">
+		<Unit filename="/Users/canli/Downloads/liubobo/fiveSum.cpp">
 			<Option target="fiveSum"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/fourSum.cpp">
+		<Unit filename="/Users/canli/Downloads/liubobo/fourSum.cpp">
 			<Option target="fourSum"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/threeSum.cpp">
+		<Unit filename="/Users/canli/Downloads/liubobo/threeSum.cpp">
 			<Option target="threeSum"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/twoSum.cpp">
+		<Unit filename="/Users/canli/Downloads/liubobo/twoSum.cpp">
 			<Option target="twoSum"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/lican/Downloads/liubobo/CMakeLists.txt">
+		<Unit filename="/Users/canli/Downloads/liubobo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

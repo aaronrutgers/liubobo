@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/threeSum.dir/threeSum.cpp.o  -o threeSum 

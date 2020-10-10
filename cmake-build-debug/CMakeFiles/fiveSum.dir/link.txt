@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fiveSum.dir/fiveSum.cpp.o  -o fiveSum 
